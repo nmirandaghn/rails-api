@@ -48,3 +48,5 @@ gem 'devise'
 gem 'simple_token_authentication', '~> 1.0' # see semver.org
 gem 'koala', '~> 3.0.0'
 gem 'hirb'
+
+gem 'faker'
